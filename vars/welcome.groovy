@@ -3,3 +3,4 @@ def call(name){
   def rem(color){
     echo "hey ${color},ur beautiful"
 }
+}
